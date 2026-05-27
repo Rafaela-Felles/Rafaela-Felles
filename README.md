@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="github-contribution-grid-snake-dark.svg?palette=purple"
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
