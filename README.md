@@ -1,7 +1,6 @@
 ## Hello world 
 
-Aprendendo, errando, tentando de novo
-e fazendo funcionar de algum jeito.💻
+
 
 <img width="378" height="453" alt="image" src="https://github.com/user-attachments/assets/60d174be-6e58-43f2-a0d5-56850fe067da" />
 
