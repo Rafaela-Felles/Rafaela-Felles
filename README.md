@@ -1,5 +1,4 @@
 
-https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets/show/eyJpZCI6NDcwNzQsInNjb3BlIjoiYXNzZXQ6dmlldyIsInRpbWVzdGFtcCI6IjE3ODExNzYyNzkifQ:supercell:Ts_Gbsln_S5QOzvv0o10HNYHzUtmCL13vs0IclnyQ6o
 
 <img width="378" height="453" alt="image" src="https://github.com/user-attachments/assets/60d174be-6e58-43f2-a0d5-56850fe067da" />
 <img width="369" height="634" alt="image" src="https://github.com/user-attachments/assets/89b7e619-ff75-42f2-9072-8b9d3af02f79" />
@@ -19,20 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="assets/gus-walk.gif" width="250">
-</div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github-contribution-grid-snake-dark.svg?palette=purple"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
