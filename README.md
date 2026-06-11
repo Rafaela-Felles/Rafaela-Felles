@@ -1,5 +1,5 @@
 
-## *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊⋆.°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ 𐙚˚࿔ Rafa 𝜗𝜚˚⋆˚*ੈ✩°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･‧₊˚༺☆༻*ੈ✩‧₊
+https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets/show/eyJpZCI6NDcwNzQsInNjb3BlIjoiYXNzZXQ6dmlldyIsInRpbWVzdGFtcCI6IjE3ODExNzYyNzkifQ:supercell:Ts_Gbsln_S5QOzvv0o10HNYHzUtmCL13vs0IclnyQ6o
 
 <img width="378" height="453" alt="image" src="https://github.com/user-attachments/assets/60d174be-6e58-43f2-a0d5-56850fe067da" />
 <img width="369" height="634" alt="image" src="https://github.com/user-attachments/assets/89b7e619-ff75-42f2-9072-8b9d3af02f79" />
