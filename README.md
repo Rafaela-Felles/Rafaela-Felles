@@ -3,9 +3,11 @@
 <img width="1280" height="853" alt="16e52caa-f374-4d4d-85fd-85fae53781c9" src="https://github.com/user-attachments/assets/bfee6c4c-bf10-4098-a5a1-5ee45debc513" />
 
 
-```txt
-[██████████] 100%
-Foxy is active.
+![FNaF](https://img.shields.io/badge/Five_Nights_at_Freddys-red?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 
 
