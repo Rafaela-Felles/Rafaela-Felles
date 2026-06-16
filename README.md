@@ -5,6 +5,19 @@
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+generate:
+  github_user_name: SEU_USUARIO
+
+  outputs:
+    dist/github-contribution-grid-snake.svg:
+      color_snake: "#ff0000"
+      color_dots:
+        - "#1a0000"
+        - "#330000"
+        - "#660000"
+        - "#990000"
+        - "#cc0000"
+
 <!--
 **Rafaela-Felles/Rafaela-Felles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
