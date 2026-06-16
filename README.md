@@ -3,6 +3,12 @@
 <img width="1280" height="853" alt="16e52caa-f374-4d4d-85fd-85fae53781c9" src="https://github.com/user-attachments/assets/bfee6c4c-bf10-4098-a5a1-5ee45debc513" />
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
+
+
 <!--
 **Rafaela-Felles/Rafaela-Felles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
