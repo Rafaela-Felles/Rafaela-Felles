@@ -5,11 +5,7 @@
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: red)" srcset="https://raw.githubusercontent.com/kahfontess/kahfontess/output/github-contribution-grid-snake-red.svg">
-  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/kahfontess/kahfontess/output/github-contribution-grid-snake-black.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kahfontess/kahfontess/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <!--
 **Rafaela-Felles/Rafaela-Felles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
