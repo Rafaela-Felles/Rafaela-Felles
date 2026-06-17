@@ -2,10 +2,24 @@
 
 <img width="1280" height="853" alt="16e52caa-f374-4d4d-85fd-85fae53781c9" src="https://github.com/user-attachments/assets/bfee6c4c-bf10-4098-a5a1-5ee45debc513" />
 
+🦊 Sobre mim
+
+Olá! Eu sou a Rafaela.
+
 💻 Estudante de TI
-🎮 Jogos favoritos:
-Five Nights at Freddy's
-Brawl Stars
+
+📚 Sempre aprendendo algo novo
+
+🎮 Apaixonada por jogos
+
+🦊 Fã de Five Nights at Freddy's
+
+⭐ Jogadora de Brawl Stars
+
+🌎 Curiosa sobre o mundo e novas tecnologias
+
+⚠️ Atualmente sobrevivendo até as 6AM na Pirate Cove...
+
 ![Snake animation](https://raw.githubusercontent.com/Rafaela-Felles/Rafaela-Felles/output/github-contribution-grid-snake.svg)
 
 
