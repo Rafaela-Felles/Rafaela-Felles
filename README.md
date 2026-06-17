@@ -5,24 +5,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Rafaela-Felles/Rafaela-Felles/output/github-contribution-grid-snake.svg)
 
-🦊 Sobre mim
-
-Olá! Eu sou a Rafaela.
-
-💻 Estudante de TI
-
-📚 Sempre aprendendo algo novo
-
-🎮 Apaixonada por jogos
-
-🦊 Fã de Five Nights at Freddy's
-
-⭐ Jogadora de Brawl Stars
-
-🌎 Curiosa sobre o mundo e novas tecnologias
-
-⚠️ Atualmente sobrevivendo até as 6AM na Pirate Cove...
-
 
 <!--
 **Rafaela-Felles/Rafaela-Felles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
